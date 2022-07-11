@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">
+Hi, I'm Vincent!
 
-<!--
-**AizaZhiora/AizaZhiora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Corporate+Lawyer;Data+Science+Student;Python+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+
+import pandas as pd
+
+Vincent = [{
+    'pronouns': ['He', 'His'],
+    'code': ['Python', 'HTML', 'CSS', 'SQL'],
+    'tools': ['Mongo', 'MySQL', 'PostgreSQL', 'Jupyter Notebook', 'Pycharm', 'GitHub', 'Excel'],
+    'areas': ['Data', 'Data Analysis', 'Project Development', 'Fraud Detection', 'Administration'],
+    'libraries': ['Pandas', 'Numpy', 'Tkinter', 'Matplotlib', 'Seaborn'],
+    'others':    ['Mexican laws', 'Photography', 'Painting', 'Photoshop']
+},
+    {
+        'py_soon': ['Sklearn', 'Keras', 'Tensorflow', 'ScyPy', 'Pytorch'],
+        'learning': ['C#', 'Java'],
+    }
+]
+
+today = pd.DataFrame([[key, vinc[0][key]] for key in vinc[0].keys()], columns=['Name', 'List'])
+print(today)
+
+tomorrow = pd.DataFrame([[key, vinc[1][key]] for key in vinc[1].keys()], columns=['Name', 'List'])
+print(tomorrow)
+
+```
