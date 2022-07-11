@@ -16,7 +16,7 @@ Vincent = [{
     'tools': ['Mongo', 'MySQL', 'PostgreSQL', 'Jupyter Notebook', 'Pycharm', 'GitHub', 'Excel'],
     'areas': ['Data', 'Data Analysis', 'Project Development', 'Fraud Detection', 'Administration'],
     'libraries': ['Pandas', 'Numpy', 'Tkinter', 'Matplotlib', 'Seaborn'],
-    'others':    ['Mexican laws', 'Photography', 'Painting', 'Photoshop']
+    'others':    ['Mexican Laws', 'Photography', 'Painting', 'Photoshop']
 },
     {
         'py_soon': ['Sklearn', 'Keras', 'Tensorflow', 'ScyPy', 'Pytorch'],
