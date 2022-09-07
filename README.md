@@ -12,7 +12,7 @@ import pandas as pd
 
 Vincent = [{
     'pronouns': ['He', 'His'],
-    'code': ['Python', 'HTML', 'CSS', 'SQL'],
+    'code': ['Python', 'HTML', 'CSS', 'SQL', 'R'],
     'tools': ['Mongo', 'MySQL', 'PostgreSQL', 'Jupyter Notebook', 'Pycharm', 'GitHub', 'Excel'],
     'areas': ['Data', 'Data Analysis', 'Project Development', 'Fraud Detection', 'Administration'],
     'libraries': ['Pandas', 'Numpy', 'Tkinter', 'Matplotlib', 'Seaborn'],
